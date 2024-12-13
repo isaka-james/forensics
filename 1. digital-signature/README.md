@@ -5,22 +5,8 @@ This project shows how to sign an image using a private key and verify it using 
 ---
 
 ### **Setup**
-1. **Create a virtual environment:**
-   ```bash
-   python3 -m venv assignment
-   ```
 
-2. **Activate the virtual environment:**
-   - On Linux/Mac:
-     ```bash
-     source assignment/bin/activate
-     ```
-   - On Windows:
-     ```bash
-     assignment\Scripts\activate
-     ```
-
-3. **Install the required package:**
+**Install the required package:**
    ```bash
    pip install pycryptodome
    ```
